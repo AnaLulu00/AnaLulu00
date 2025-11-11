@@ -54,8 +54,8 @@
 
 ### 🌸 Um toque da minha personalidade
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2f/41/06/2f4106be6a8e2c4a2b59fdfcf5b4f4b1.gif" width="200" alt="Hello Kitty animada"/>
-  <img src="https://i.pinimg.com/originals/26/41/74/2641740f272a66b2278897c3cc1397a1.gif" width="200" alt="Kuromi animada"/>
+  <img src="https://i.imgur.com/EXEMPLO_HELLOKITTY.gif" width="200" alt="Hello Kitty animada"/>
+  <img src="https://i.imgur.com/EXEMPLO_KUROMI.gif" width="200" alt="Kuromi animada"/>
 </p>
 
 ---
