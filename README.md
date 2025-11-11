@@ -55,7 +55,7 @@
 ### 🌸 Deixando códigos com a carinha do que eu gosto
 <p align="center">
   <img src="https://media.tenor.com/LR0dQvR_0-oAAAAj/hello-kitty-pixel-art.gif" width="180" alt="Hello Kitty pixel"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bubblegum+Sans&size=24&duration=3000&pause=1000&color=FCA3FF&center=true&vCenter=true&width=300&lines=✨+Embelezando,+meus+códigos!+💅;💜+Hello+Kitty+e+Kuromi+vibes!+🌸" alt="Frase animada"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bubblegum+Sans&size=24&duration=3000&pause=1000&color=FCA3FF&center=true&vCenter=true&width=300&lines=✨+Embelezando+meus+códigos!+💅;💜+Hello+Kitty+e+Kuromi+vibes!+🌸" alt="Frase animada"/>
   <img src="https://media1.tenor.com/m/eIRhvcUcF9IAAAAC/kuromi.gif" width="180" alt="Kuromi animada"/>
 </p>
 
