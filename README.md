@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/xxxxx.png" width="100%" alt="banner personalizado Hello Kitty e Kuromi](https://imgur.com/a/nep50L2)"/>
+  <img src="https://i.imgur.com/xxxxx.png" width="100%" alt="banner personalizado Hello Kitty e Kuromi(https://imgur.com/a/nep50L2)"/>
 </p>
 
 <!-- 💫 Animação de boas-vindas -->
