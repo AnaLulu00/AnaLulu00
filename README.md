@@ -31,11 +31,7 @@
   <img src="https://img.shields.io/badge/Python-DA70D6?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-FF8BDF?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-DDA0DD?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-F4A6D7?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-DDA0DD?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-DA70D6?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
